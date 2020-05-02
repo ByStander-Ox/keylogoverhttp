@@ -33,7 +33,7 @@ Nevertheless, keyloggers can pose a serious threat to users, as they can be used
 
 ## Low Detection Rate
 
-![](./virustotal.png"keylogoverhttp")
+![](./virustotal.png "keylogoverhttp")
 
 ## Author
 * **Hakan İlbiz**
