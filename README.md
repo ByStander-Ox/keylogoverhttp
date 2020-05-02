@@ -15,7 +15,7 @@ Nevertheless, keyloggers can pose a serious threat to users, as they can be used
 - Pure C with Win32 API Calls
 - Registery editing for persistence
 - Crafting HTTP Request for data exfiltrate
-- Low detection rate (7/71) in virustotal
+- Low detection rate (3/71) in virustotal
 - Lower case keystroke detecting.
 
 ## Installing
@@ -30,6 +30,10 @@ Nevertheless, keyloggers can pose a serious threat to users, as they can be used
 
 ![](./keylogoverhttp-image.png "keylogoverhttp")
 ![](./keylogoverhttp-image-2.png "keylogoverhttp")
+
+## Low Detection Rate
+
+![](./virustotal.png"keylogoverhttp")
 
 ## Author
 * **Hakan İlbiz**
